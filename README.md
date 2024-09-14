@@ -73,4 +73,4 @@ To keep the code modular and reusable, common tasks are placed into functions:
 
 ## Project Link
 
-You can access the project using this link: [Your Project Link](https://okan87.github.io/checkoutPage/)
+You can access the project using this link: [Your Project Link](https://okan87.github.io/checkoutApp/)
